@@ -1,0 +1,5 @@
+print("Hello World")
+print("Hello Jyoti")
+print(23+45)
+print(23*45)
+print(10/2)
